@@ -1,0 +1,37 @@
+Order_ID,Customer,Channel,Tanggal Order,Total_Qty,Total_Omzet,Total_HPP,Total_Laba,Jumlah_Item,Margin_Persen,Minggu,Bulan,Hari
+ORD-001,Achmad Alfa Rizki,Whatsapp,2026-06-08,1,27000,15580,11420,1,42.3,24,June,Monday
+ORD-002,Adzmi Thalia,Instagram,2026-06-25,9,70000,29533,40467,6,57.81,26,June,Thursday
+ORD-003,Aini,Instagram,2026-06-13,21,201000,97219,103781,7,51.63,24,June,Saturday
+ORD-004,Aldena,Whatsapp,2026-06-25,3,81000,51118,29882,1,36.89,26,June,Thursday
+ORD-005,Alpia,Whatsapp,2026-06-16,2,16000,6478,9522,2,59.51,25,June,Tuesday
+ORD-006,Ana Kusuma,Whatsapp,2026-06-05,35,210000,83679,126321,1,60.15,23,June,Friday
+ORD-007,Atira,Whatsapp,2026-05-20,3,53000,34259,18741,2,35.36,21,May,Wednesday
+ORD-008,Banyu Gendis,Whatsapp,2026-07-12,5,52000,29273,22727,5,43.71,28,July,Sunday
+ORD-009,Bella Khanza,Whatsapp,2026-06-19,44,780000,515719,264281,5,33.88,25,June,Friday
+ORD-010,Bella Khanza,Whatsapp,2026-06-20,4,60000,40045,19955,3,33.26,25,June,Saturday
+ORD-011,Bella Khanza,Whatsapp,2026-06-22,15,235000,142090,92910,5,39.54,26,June,Monday
+ORD-012,Dafina,Whatsapp,2026-06-23,20,160000,69689,90311,4,56.44,26,June,Tuesday
+ORD-013,Dara Ariska,Whatsapp,2026-07-11,54,396000,168980,227020,9,57.33,28,July,Saturday
+ORD-014,Dewi,Whatsapp,2026-06-16,2,28000,19274,8726,2,31.16,25,June,Tuesday
+ORD-015,Dewi Lestari,Whatsapp,2026-05-26,36,469000,274282,194718,14,41.52,22,May,Tuesday
+ORD-016,Dewi Lestari,Whatsapp,2026-06-01,79,1078000,595540,482460,19,44.76,23,June,Monday
+ORD-017,Dewi Lestari,Whatsapp,2026-06-16,56,694000,360407,333593,17,48.07,25,June,Tuesday
+ORD-018,Fara Diba,Whatsapp,2026-05-15,7,88000,44982,43018,6,48.88,20,May,Friday
+ORD-019,Fara Diba,Whatsapp,2026-06-09,5,86000,50217,35783,4,41.61,24,June,Tuesday
+ORD-020,Fara Diba,Whatsapp,2026-06-25,8,111000,59147,51853,6,46.71,26,June,Thursday
+ORD-021,Feby,Whatsapp,2026-05-20,10,76000,32256,43744,4,57.56,21,May,Wednesday
+ORD-022,Kak Ani,Whatsapp,2026-06-16,12,119000,61872,57128,7,48.01,25,June,Tuesday
+ORD-023,Kak Eva,Whatsapp,2026-06-16,3,50000,22274,27726,2,55.45,25,June,Tuesday
+ORD-024,Mas Hari,Whatsapp,2026-06-16,1,54000,31649,22351,1,41.39,25,June,Tuesday
+ORD-025,Mba Anggi,Whatsapp,2026-06-16,2,12000,5024,6976,2,58.13,25,June,Tuesday
+ORD-026,Mba Renny,Whatsapp,2026-06-16,1,25000,14789,10211,1,40.85,25,June,Tuesday
+ORD-027,Nabila,Whatsapp,2026-07-12,21,203000,64016,138984,3,68.47,28,July,Sunday
+ORD-028,Nur Ainun,Whatsapp,2026-05-14,4,65000,25576,39424,2,60.65,20,May,Thursday
+ORD-029,Resfi,Whatsapp,2026-05-13,7,81000,53041,27959,4,34.52,20,May,Wednesday
+ORD-030,Rizka,Whatsapp,2026-06-16,4,32000,13963,18037,3,56.37,25,June,Tuesday
+ORD-031,Syifa,Instagram,2026-06-17,128,1454000,871492,582508,13,40.06,25,June,Wednesday
+ORD-032,Syifa,Instagram,2026-06-19,1,20000,15670,4330,1,21.65,25,June,Friday
+ORD-033,Tasya Putri Raniah,Whatsapp,2026-05-18,7,70000,36786,33214,5,47.45,21,May,Monday
+ORD-034,Umay,Whatsapp,2026-06-27,5,164000,92100,71900,5,43.84,26,June,Saturday
+ORD-035,Wida Warnita,Whatsapp,2026-05-26,24,162000,68261,93739,6,57.86,22,May,Tuesday
+ORD-036,Zahra,Whatsapp,2026-06-16,3,34000,21513,12487,3,36.73,25,June,Tuesday

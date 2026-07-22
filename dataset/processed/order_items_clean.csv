@@ -1,0 +1,182 @@
+Customer,Channel,Tanggal Order,Produk_ID,Menu,Qty,Harga,Subtotal,HPP,Minggu,Bulan,Hari,Kategori Menu,Total_HPP,Laba,Margin_Persen,Order_ID
+Resfi,Whatsapp,2026-05-13,3,Cookies Rainbow Cheddar,3,6000,18000,2633,20,May,Wednesday,Cookies,7900,10100,56.11,ORD-029
+Resfi,Whatsapp,2026-05-13,15,Scoopable Kunafa Pistachio,2,20000,40000,15670,20,May,Wednesday,Scoopable,31340,8660,21.65,ORD-029
+Resfi,Whatsapp,2026-05-13,6,Cookies Rainbow Cheddar Cheese,1,8000,8000,3521,20,May,Wednesday,Cookies,3521,4479,55.99,ORD-029
+Resfi,Whatsapp,2026-05-13,13,Scoopable Smores,1,15000,15000,10280,20,May,Wednesday,Scoopable,10280,4720,31.47,ORD-029
+Nur Ainun,Whatsapp,2026-05-14,10,Scoopable Double Choco,3,15000,45000,3302,20,May,Thursday,Scoopable,9906,35094,77.99,ORD-028
+Nur Ainun,Whatsapp,2026-05-14,15,Scoopable Kunafa Pistachio,1,20000,20000,15670,20,May,Thursday,Scoopable,15670,4330,21.65,ORD-028
+Fara Diba,Whatsapp,2026-05-15,4,Cookies Red Velvet Choco Cheese,2,8000,16000,3452,20,May,Friday,Cookies,6904,9096,56.85,ORD-018
+Fara Diba,Whatsapp,2026-05-15,16,Fudgy Brownies Klasik 10 x 10,1,23000,23000,13849,20,May,Friday,Fudgy Brownies,13849,9151,39.79,ORD-018
+Fara Diba,Whatsapp,2026-05-15,8,Cookies Double Choco,1,8000,8000,3302,20,May,Friday,Cookies,3302,4698,58.72,ORD-018
+Fara Diba,Whatsapp,2026-05-15,6,Cookies Rainbow Cheddar Cheese,1,8000,8000,3521,20,May,Friday,Cookies,3521,4479,55.99,ORD-018
+Fara Diba,Whatsapp,2026-05-15,20,Fudgy Brownies Brookies 10 x 10,1,25000,25000,13826,20,May,Friday,Fudgy Brownies,13826,11174,44.69,ORD-018
+Fara Diba,Whatsapp,2026-05-15,7,Cookies Matcha Chocomond,1,8000,8000,3579,20,May,Friday,Cookies,3579,4421,55.26,ORD-018
+Tasya Putri Raniah,Whatsapp,2026-05-18,11,Scoopable Choco Cheesy,1,15000,15000,9678,21,May,Monday,Scoopable,9678,5322,35.48,ORD-033
+Tasya Putri Raniah,Whatsapp,2026-05-18,3,Cookies Rainbow Cheddar,1,6000,6000,2633,21,May,Monday,Cookies,2633,3367,56.11,ORD-033
+Tasya Putri Raniah,Whatsapp,2026-05-18,16,Fudgy Brownies Klasik 10 x 10,1,23000,23000,13849,21,May,Monday,Fudgy Brownies,13849,9151,39.79,ORD-033
+Tasya Putri Raniah,Whatsapp,2026-05-18,1,Cookies Klasik Coklat,3,6000,18000,2391,21,May,Monday,Cookies,7173,10827,60.15,ORD-033
+Tasya Putri Raniah,Whatsapp,2026-05-18,4,Cookies Red Velvet Choco Cheese,1,8000,8000,3452,21,May,Monday,Cookies,3452,4548,56.85,ORD-033
+Feby,Whatsapp,2026-05-20,9,Cookies Lotus Biscoff,2,8000,16000,3604,21,May,Wednesday,Cookies,7209,8791,54.95,ORD-021
+Feby,Whatsapp,2026-05-20,5,Cookies Red Velvet Cheese,3,8000,24000,3176,21,May,Wednesday,Cookies,9527,14473,60.3,ORD-021
+Feby,Whatsapp,2026-05-20,1,Cookies Klasik Coklat,2,6000,12000,2391,21,May,Wednesday,Cookies,4782,7218,60.15,ORD-021
+Feby,Whatsapp,2026-05-20,7,Cookies Matcha Chocomond,3,8000,24000,3579,21,May,Wednesday,Cookies,10738,13262,55.26,ORD-021
+Atira,Whatsapp,2026-05-20,16,Fudgy Brownies Klasik 10 x 10,1,23000,23000,13849,21,May,Wednesday,Fudgy Brownies,13849,9151,39.79,ORD-007
+Atira,Whatsapp,2026-05-20,12,Scoopable Choco Crumbs,2,15000,30000,10205,21,May,Wednesday,Scoopable,20410,9590,31.97,ORD-007
+Wida Warnita,Whatsapp,2026-05-26,2,Cookies Red Velvet Choco,7,6000,42000,2505,22,May,Tuesday,Cookies,17533,24467,58.26,ORD-035
+Wida Warnita,Whatsapp,2026-05-26,1,Cookies Klasik Coklat,5,6000,30000,2391,22,May,Tuesday,Cookies,11954,18046,60.15,ORD-035
+Wida Warnita,Whatsapp,2026-05-26,3,Cookies Rainbow Cheddar,3,6000,18000,2633,22,May,Tuesday,Cookies,7900,10100,56.11,ORD-035
+Wida Warnita,Whatsapp,2026-05-26,4,Cookies Red Velvet Choco Cheese,4,8000,32000,3452,22,May,Tuesday,Cookies,13809,18191,56.85,ORD-035
+Wida Warnita,Whatsapp,2026-05-26,8,Cookies Double Choco,3,8000,24000,3302,22,May,Tuesday,Cookies,9906,14094,58.72,ORD-035
+Wida Warnita,Whatsapp,2026-05-26,7,Cookies Matcha Chocomond,2,8000,16000,3579,22,May,Tuesday,Cookies,7159,8841,55.26,ORD-035
+Dewi Lestari,Whatsapp,2026-05-26,7,Cookies Matcha Chocomond,2,8000,16000,3579,22,May,Tuesday,Cookies,7159,8841,55.26,ORD-015
+Dewi Lestari,Whatsapp,2026-05-26,10,Scoopable Double Choco,1,15000,15000,3302,22,May,Tuesday,Scoopable,3302,11698,77.99,ORD-015
+Dewi Lestari,Whatsapp,2026-05-26,6,Cookies Rainbow Cheddar Cheese,1,8000,8000,3521,22,May,Tuesday,Cookies,3521,4479,55.99,ORD-015
+Dewi Lestari,Whatsapp,2026-05-26,2,Cookies Red Velvet Choco,3,6000,18000,2505,22,May,Tuesday,Cookies,7514,10486,58.26,ORD-015
+Dewi Lestari,Whatsapp,2026-05-26,8,Cookies Double Choco,2,8000,16000,3302,22,May,Tuesday,Cookies,6604,9396,58.72,ORD-015
+Dewi Lestari,Whatsapp,2026-05-26,19,Fudgy Brownies Brochizu 20 x 10,1,54000,54000,31649,22,May,Tuesday,Fudgy Brownies,31649,22351,41.39,ORD-015
+Dewi Lestari,Whatsapp,2026-05-26,9,Cookies Lotus Biscoff,4,8000,32000,3604,22,May,Tuesday,Cookies,14417,17583,54.95,ORD-015
+Dewi Lestari,Whatsapp,2026-05-26,11,Scoopable Choco Cheesy,1,15000,15000,9678,22,May,Tuesday,Scoopable,9678,5322,35.48,ORD-015
+Dewi Lestari,Whatsapp,2026-05-26,3,Cookies Rainbow Cheddar,1,6000,6000,2633,22,May,Tuesday,Cookies,2633,3367,56.11,ORD-015
+Dewi Lestari,Whatsapp,2026-05-26,15,Scoopable Kunafa Pistachio,8,20000,160000,15670,22,May,Tuesday,Scoopable,125360,34640,21.65,ORD-015
+Dewi Lestari,Whatsapp,2026-05-26,5,Cookies Red Velvet Cheese,4,8000,32000,3176,22,May,Tuesday,Cookies,12703,19297,60.3,ORD-015
+Dewi Lestari,Whatsapp,2026-05-26,4,Cookies Red Velvet Choco Cheese,5,8000,40000,3452,22,May,Tuesday,Cookies,17261,22739,56.85,ORD-015
+Dewi Lestari,Whatsapp,2026-05-26,1,Cookies Klasik Coklat,2,6000,12000,2391,22,May,Tuesday,Cookies,4782,7218,60.15,ORD-015
+Dewi Lestari,Whatsapp,2026-05-26,17,Fudgy Brownies Klasik 20 x 10,1,45000,45000,27699,22,May,Tuesday,Fudgy Brownies,27699,17301,38.45,ORD-015
+Dewi Lestari,Whatsapp,2026-06-01,5,Cookies Red Velvet Cheese,10,8000,80000,3176,23,June,Monday,Cookies,31758,48242,60.3,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,12,Scoopable Choco Crumbs,1,15000,15000,10205,23,June,Monday,Scoopable,10205,4795,31.97,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,4,Cookies Red Velvet Choco Cheese,9,8000,72000,3452,23,June,Monday,Cookies,31069,40931,56.85,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,26,Banana Bread OG Crumble 10 x 10,1,23000,23000,13184,23,June,Monday,Banana Bread,13184,9816,42.68,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,15,Scoopable Kunafa Pistachio,8,20000,160000,15670,23,June,Monday,Scoopable,125360,34640,21.65,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,16,Fudgy Brownies Klasik 10 x 10,3,23000,69000,13849,23,June,Monday,Fudgy Brownies,41548,27452,39.79,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,1,Cookies Klasik Coklat,9,6000,54000,2391,23,June,Monday,Cookies,21518,32482,60.15,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,24,Fudgy Brownies Lotus Biscoff Filling 10 x 10,2,27000,54000,15580,23,June,Monday,Fudgy Brownies,31160,22840,42.3,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,7,Cookies Matcha Chocomond,4,8000,32000,3579,23,June,Monday,Cookies,14317,17683,55.26,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,11,Scoopable Choco Cheesy,1,15000,15000,9678,23,June,Monday,Scoopable,9678,5322,35.48,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,2,Cookies Red Velvet Choco,3,6000,18000,2505,23,June,Monday,Cookies,7514,10486,58.26,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,28,Banana Bread Choco Cheese Almond 10 x 10,1,27000,27000,17039,23,June,Monday,Banana Bread,17039,9961,36.89,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,10,Scoopable Double Choco,2,15000,30000,3302,23,June,Monday,Scoopable,6604,23396,77.99,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,18,Fudgy Brownies Brochizu 10 x 10,1,27000,27000,15824,23,June,Monday,Fudgy Brownies,15824,11176,41.39,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,8,Cookies Double Choco,6,8000,48000,3302,23,June,Monday,Cookies,19813,28187,58.72,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,13,Scoopable Smores,1,15000,15000,10280,23,June,Monday,Scoopable,10280,4720,31.47,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,17,Fudgy Brownies Klasik 20 x 10,3,45000,135000,27699,23,June,Monday,Fudgy Brownies,83096,51904,38.45,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,9,Cookies Lotus Biscoff,12,8000,96000,3604,23,June,Monday,Cookies,43252,52748,54.95,ORD-016
+Dewi Lestari,Whatsapp,2026-06-01,25,Fudgy Brownies Lotus Biscoff Filling 20 x 10,2,54000,108000,31160,23,June,Monday,Fudgy Brownies,62320,45680,42.3,ORD-016
+Ana Kusuma,Whatsapp,2026-06-05,1,Cookies Klasik Coklat,35,6000,210000,2391,23,June,Friday,Cookies,83679,126321,60.15,ORD-006
+Achmad Alfa Rizki,Whatsapp,2026-06-08,24,Fudgy Brownies Lotus Biscoff Filling 10 x 10,1,27000,27000,15580,24,June,Monday,Fudgy Brownies,15580,11420,42.3,ORD-001
+Fara Diba,Whatsapp,2026-06-09,5,Cookies Red Velvet Cheese,1,8000,8000,3176,24,June,Tuesday,Cookies,3176,4824,60.3,ORD-019
+Fara Diba,Whatsapp,2026-06-09,15,Scoopable Kunafa Pistachio,1,20000,20000,15670,24,June,Tuesday,Scoopable,15670,4330,21.65,ORD-019
+Fara Diba,Whatsapp,2026-06-09,7,Cookies Matcha Chocomond,1,8000,8000,3579,24,June,Tuesday,Cookies,3579,4421,55.26,ORD-019
+Fara Diba,Whatsapp,2026-06-09,22,Fudgy Brownies Lotus Biscoff 10 x 10,2,25000,50000,13896,24,June,Tuesday,Fudgy Brownies,27792,22208,44.42,ORD-019
+Aini,Instagram,2026-06-13,16,Fudgy Brownies Klasik 10 x 10,3,23000,69000,13849,24,June,Saturday,Fudgy Brownies,41548,27452,39.79,ORD-003
+Aini,Instagram,2026-06-13,1,Cookies Klasik Coklat,3,6000,18000,2391,24,June,Saturday,Cookies,7173,10827,60.15,ORD-003
+Aini,Instagram,2026-06-13,7,Cookies Matcha Chocomond,3,8000,24000,3579,24,June,Saturday,Cookies,10738,13262,55.26,ORD-003
+Aini,Instagram,2026-06-13,2,Cookies Red Velvet Choco,3,6000,18000,2505,24,June,Saturday,Cookies,7514,10486,58.26,ORD-003
+Aini,Instagram,2026-06-13,8,Cookies Double Choco,3,8000,24000,3302,24,June,Saturday,Cookies,9906,14094,58.72,ORD-003
+Aini,Instagram,2026-06-13,9,Cookies Lotus Biscoff,3,8000,24000,3604,24,June,Saturday,Cookies,10813,13187,54.95,ORD-003
+Aini,Instagram,2026-06-13,5,Cookies Red Velvet Cheese,3,8000,24000,3176,24,June,Saturday,Cookies,9527,14473,60.3,ORD-003
+Dewi Lestari,Whatsapp,2026-06-16,19,Fudgy Brownies Brochizu 20 x 10,1,54000,54000,31649,25,June,Tuesday,Fudgy Brownies,31649,22351,41.39,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,9,Cookies Lotus Biscoff,8,8000,64000,3604,25,June,Tuesday,Cookies,28835,35165,54.95,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,24,Fudgy Brownies Lotus Biscoff Filling 10 x 10,1,27000,27000,15580,25,June,Tuesday,Fudgy Brownies,15580,11420,42.3,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,6,Cookies Rainbow Cheddar Cheese,1,8000,8000,3521,25,June,Tuesday,Cookies,3521,4479,55.99,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,15,Scoopable Kunafa Pistachio,4,20000,80000,15670,25,June,Tuesday,Scoopable,62680,17320,21.65,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,2,Cookies Red Velvet Choco,3,6000,18000,2505,25,June,Tuesday,Cookies,7514,10486,58.26,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,28,Banana Bread Choco Cheese Almond 10 x 10,1,27000,27000,17039,25,June,Tuesday,Banana Bread,17039,9961,36.89,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,18,Fudgy Brownies Brochizu 10 x 10,4,27000,108000,15824,25,June,Tuesday,Fudgy Brownies,63298,44702,41.39,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,1,Cookies Klasik Coklat,8,6000,48000,2391,25,June,Tuesday,Cookies,19127,28873,60.15,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,20,Fudgy Brownies Brookies 10 x 10,1,25000,25000,13826,25,June,Tuesday,Fudgy Brownies,13826,11174,44.69,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,3,Cookies Rainbow Cheddar,1,6000,6000,2633,25,June,Tuesday,Cookies,2633,3367,56.11,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,10,Scoopable Double Choco,3,15000,45000,3302,25,June,Tuesday,Scoopable,9906,35094,77.99,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,5,Cookies Red Velvet Cheese,6,8000,48000,3176,25,June,Tuesday,Cookies,19055,28945,60.3,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,27,Banana Bread Choco Almond 10 x 10,1,25000,25000,14789,25,June,Tuesday,Banana Bread,14789,10211,40.85,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,13,Scoopable Smores,1,15000,15000,10280,25,June,Tuesday,Scoopable,10280,4720,31.47,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,4,Cookies Red Velvet Choco Cheese,7,8000,56000,3452,25,June,Tuesday,Cookies,24165,31835,56.85,ORD-017
+Dewi Lestari,Whatsapp,2026-06-16,8,Cookies Double Choco,5,8000,40000,3302,25,June,Tuesday,Cookies,16510,23490,58.72,ORD-017
+Rizka,Whatsapp,2026-06-16,4,Cookies Red Velvet Choco Cheese,1,8000,8000,3452,25,June,Tuesday,Cookies,3452,4548,56.85,ORD-030
+Rizka,Whatsapp,2026-06-16,9,Cookies Lotus Biscoff,2,8000,16000,3604,25,June,Tuesday,Cookies,7209,8791,54.95,ORD-030
+Rizka,Whatsapp,2026-06-16,8,Cookies Double Choco,1,8000,8000,3302,25,June,Tuesday,Cookies,3302,4698,58.72,ORD-030
+Zahra,Whatsapp,2026-06-16,4,Cookies Red Velvet Choco Cheese,1,8000,8000,3452,25,June,Tuesday,Cookies,3452,4548,56.85,ORD-036
+Zahra,Whatsapp,2026-06-16,1,Cookies Klasik Coklat,1,6000,6000,2391,25,June,Tuesday,Cookies,2391,3609,60.15,ORD-036
+Zahra,Whatsapp,2026-06-16,15,Scoopable Kunafa Pistachio,1,20000,20000,15670,25,June,Tuesday,Scoopable,15670,4330,21.65,ORD-036
+Mba Anggi,Whatsapp,2026-06-16,1,Cookies Klasik Coklat,1,6000,6000,2391,25,June,Tuesday,Cookies,2391,3609,60.15,ORD-025
+Mba Anggi,Whatsapp,2026-06-16,3,Cookies Rainbow Cheddar,1,6000,6000,2633,25,June,Tuesday,Cookies,2633,3367,56.11,ORD-025
+Kak Eva,Whatsapp,2026-06-16,15,Scoopable Kunafa Pistachio,1,20000,20000,15670,25,June,Tuesday,Scoopable,15670,4330,21.65,ORD-023
+Kak Eva,Whatsapp,2026-06-16,10,Scoopable Double Choco,2,15000,30000,3302,25,June,Tuesday,Scoopable,6604,23396,77.99,ORD-023
+Mas Hari,Whatsapp,2026-06-16,19,Fudgy Brownies Brochizu 20 x 10,1,54000,54000,31649,25,June,Tuesday,Fudgy Brownies,31649,22351,41.39,ORD-024
+Kak Ani,Whatsapp,2026-06-16,15,Scoopable Kunafa Pistachio,1,20000,20000,15670,25,June,Tuesday,Scoopable,15670,4330,21.65,ORD-022
+Kak Ani,Whatsapp,2026-06-16,9,Cookies Lotus Biscoff,2,8000,16000,3604,25,June,Tuesday,Cookies,7209,8791,54.95,ORD-022
+Kak Ani,Whatsapp,2026-06-16,2,Cookies Red Velvet Choco,3,6000,18000,2505,25,June,Tuesday,Cookies,7514,10486,58.26,ORD-022
+Kak Ani,Whatsapp,2026-06-16,24,Fudgy Brownies Lotus Biscoff Filling 10 x 10,1,27000,27000,15580,25,June,Tuesday,Fudgy Brownies,15580,11420,42.3,ORD-022
+Kak Ani,Whatsapp,2026-06-16,4,Cookies Red Velvet Choco Cheese,2,8000,16000,3452,25,June,Tuesday,Cookies,6904,9096,56.85,ORD-022
+Kak Ani,Whatsapp,2026-06-16,8,Cookies Double Choco,2,8000,16000,3302,25,June,Tuesday,Cookies,6604,9396,58.72,ORD-022
+Kak Ani,Whatsapp,2026-06-16,1,Cookies Klasik Coklat,1,6000,6000,2391,25,June,Tuesday,Cookies,2391,3609,60.15,ORD-022
+Alpia,Whatsapp,2026-06-16,5,Cookies Red Velvet Cheese,1,8000,8000,3176,25,June,Tuesday,Cookies,3176,4824,60.3,ORD-005
+Alpia,Whatsapp,2026-06-16,8,Cookies Double Choco,1,8000,8000,3302,25,June,Tuesday,Cookies,3302,4698,58.72,ORD-005
+Mba Renny,Whatsapp,2026-06-16,27,Banana Bread Choco Almond 10 x 10,1,25000,25000,14789,25,June,Tuesday,Banana Bread,14789,10211,40.85,ORD-026
+Dewi,Whatsapp,2026-06-16,9,Cookies Lotus Biscoff,1,8000,8000,3604,25,June,Tuesday,Cookies,3604,4396,54.95,ORD-014
+Dewi,Whatsapp,2026-06-16,15,Scoopable Kunafa Pistachio,1,20000,20000,15670,25,June,Tuesday,Scoopable,15670,4330,21.65,ORD-014
+Syifa,Instagram,2026-06-17,7,Cookies Matcha Chocomond,7,8000,56000,3579,25,June,Wednesday,Cookies,25055,30945,55.26,ORD-031
+Syifa,Instagram,2026-06-17,13,Scoopable Smores,7,15000,105000,10280,25,June,Wednesday,Scoopable,71960,33040,31.47,ORD-031
+Syifa,Instagram,2026-06-17,6,Cookies Rainbow Cheddar Cheese,2,8000,16000,3521,25,June,Wednesday,Cookies,7041,8959,55.99,ORD-031
+Syifa,Instagram,2026-06-17,4,Cookies Red Velvet Choco Cheese,18,8000,144000,3452,25,June,Wednesday,Cookies,62139,81861,56.85,ORD-031
+Syifa,Instagram,2026-06-17,8,Cookies Double Choco,17,8000,136000,3302,25,June,Wednesday,Cookies,56136,79864,58.72,ORD-031
+Syifa,Instagram,2026-06-17,12,Scoopable Choco Crumbs,2,15000,30000,10205,25,June,Wednesday,Scoopable,20410,9590,31.97,ORD-031
+Syifa,Instagram,2026-06-17,9,Cookies Lotus Biscoff,14,8000,112000,3604,25,June,Wednesday,Cookies,50460,61540,54.95,ORD-031
+Syifa,Instagram,2026-06-17,15,Scoopable Kunafa Pistachio,30,20000,600000,15670,25,June,Wednesday,Scoopable,470100,129900,21.65,ORD-031
+Syifa,Instagram,2026-06-17,3,Cookies Rainbow Cheddar,4,6000,24000,2633,25,June,Wednesday,Cookies,10534,13466,56.11,ORD-031
+Syifa,Instagram,2026-06-17,5,Cookies Red Velvet Cheese,12,8000,96000,3176,25,June,Wednesday,Cookies,38110,57890,60.3,ORD-031
+Syifa,Instagram,2026-06-17,11,Scoopable Choco Cheesy,3,15000,45000,9678,25,June,Wednesday,Scoopable,29034,15966,35.48,ORD-031
+Syifa,Instagram,2026-06-17,1,Cookies Klasik Coklat,10,6000,60000,2391,25,June,Wednesday,Cookies,23908,36092,60.15,ORD-031
+Syifa,Instagram,2026-06-17,10,Scoopable Double Choco,2,15000,30000,3302,25,June,Wednesday,Scoopable,6604,23396,77.99,ORD-031
+Syifa,Instagram,2026-06-19,15,Scoopable Kunafa Pistachio,1,20000,20000,15670,25,June,Friday,Scoopable,15670,4330,21.65,ORD-032
+Bella Khanza,Whatsapp,2026-06-19,15,Scoopable Kunafa Pistachio,24,20000,480000,15670,25,June,Friday,Scoopable,376080,103920,21.65,ORD-009
+Bella Khanza,Whatsapp,2026-06-19,11,Scoopable Choco Cheesy,5,15000,75000,9678,25,June,Friday,Scoopable,48390,26610,35.48,ORD-009
+Bella Khanza,Whatsapp,2026-06-19,10,Scoopable Double Choco,9,15000,135000,3302,25,June,Friday,Scoopable,29719,105281,77.99,ORD-009
+Bella Khanza,Whatsapp,2026-06-19,13,Scoopable Smores,4,15000,60000,10280,25,June,Friday,Scoopable,41120,18880,31.47,ORD-009
+Bella Khanza,Whatsapp,2026-06-19,12,Scoopable Choco Crumbs,2,15000,30000,10205,25,June,Friday,Scoopable,20410,9590,31.97,ORD-009
+Bella Khanza,Whatsapp,2026-06-20,14,Scoopable Martabak,1,15000,15000,9807,25,June,Saturday,Scoopable,9807,5193,34.62,ORD-010
+Bella Khanza,Whatsapp,2026-06-20,11,Scoopable Choco Cheesy,1,15000,15000,9678,25,June,Saturday,Scoopable,9678,5322,35.48,ORD-010
+Bella Khanza,Whatsapp,2026-06-20,13,Scoopable Smores,2,15000,30000,10280,25,June,Saturday,Scoopable,20560,9440,31.47,ORD-010
+Bella Khanza,Whatsapp,2026-06-22,12,Scoopable Choco Crumbs,2,15000,30000,10205,26,June,Monday,Scoopable,20410,9590,31.97,ORD-011
+Bella Khanza,Whatsapp,2026-06-22,15,Scoopable Kunafa Pistachio,2,20000,40000,15670,26,June,Monday,Scoopable,31340,8660,21.65,ORD-011
+Bella Khanza,Whatsapp,2026-06-22,11,Scoopable Choco Cheesy,3,15000,45000,9678,26,June,Monday,Scoopable,29034,15966,35.48,ORD-011
+Bella Khanza,Whatsapp,2026-06-22,10,Scoopable Double Choco,3,15000,45000,3302,26,June,Monday,Scoopable,9906,35094,77.99,ORD-011
+Bella Khanza,Whatsapp,2026-06-22,13,Scoopable Smores,5,15000,75000,10280,26,June,Monday,Scoopable,51400,23600,31.47,ORD-011
+Dafina,Whatsapp,2026-06-23,8,Cookies Double Choco,5,8000,40000,3302,26,June,Tuesday,Cookies,16510,23490,58.72,ORD-012
+Dafina,Whatsapp,2026-06-23,7,Cookies Matcha Chocomond,5,8000,40000,3579,26,June,Tuesday,Cookies,17896,22104,55.26,ORD-012
+Dafina,Whatsapp,2026-06-23,9,Cookies Lotus Biscoff,5,8000,40000,3604,26,June,Tuesday,Cookies,18022,21978,54.95,ORD-012
+Dafina,Whatsapp,2026-06-23,4,Cookies Red Velvet Choco Cheese,5,8000,40000,3452,26,June,Tuesday,Cookies,17261,22739,56.85,ORD-012
+Fara Diba,Whatsapp,2026-06-25,1,Cookies Klasik Coklat,1,6000,6000,2391,26,June,Thursday,Cookies,2391,3609,60.15,ORD-020
+Fara Diba,Whatsapp,2026-06-25,5,Cookies Red Velvet Cheese,2,8000,16000,3176,26,June,Thursday,Cookies,6352,9648,60.3,ORD-020
+Fara Diba,Whatsapp,2026-06-25,16,Fudgy Brownies Klasik 10 x 10,2,23000,46000,13849,26,June,Thursday,Fudgy Brownies,27699,18301,39.79,ORD-020
+Fara Diba,Whatsapp,2026-06-25,8,Cookies Double Choco,1,8000,8000,3302,26,June,Thursday,Cookies,3302,4698,58.72,ORD-020
+Fara Diba,Whatsapp,2026-06-25,7,Cookies Matcha Chocomond,1,8000,8000,3579,26,June,Thursday,Cookies,3579,4421,55.26,ORD-020
+Fara Diba,Whatsapp,2026-06-25,18,Fudgy Brownies Brochizu 10 x 10,1,27000,27000,15824,26,June,Thursday,Fudgy Brownies,15824,11176,41.39,ORD-020
+Adzmi Thalia,Instagram,2026-06-25,8,Cookies Double Choco,2,8000,16000,3302,26,June,Thursday,Cookies,6604,9396,58.72,ORD-002
+Adzmi Thalia,Instagram,2026-06-25,6,Cookies Rainbow Cheddar Cheese,2,8000,16000,3521,26,June,Thursday,Cookies,7041,8959,55.99,ORD-002
+Adzmi Thalia,Instagram,2026-06-25,2,Cookies Red Velvet Choco,1,6000,6000,2505,26,June,Thursday,Cookies,2505,3495,58.26,ORD-002
+Adzmi Thalia,Instagram,2026-06-25,7,Cookies Matcha Chocomond,1,8000,8000,3579,26,June,Thursday,Cookies,3579,4421,55.26,ORD-002
+Adzmi Thalia,Instagram,2026-06-25,5,Cookies Red Velvet Cheese,2,8000,16000,3176,26,June,Thursday,Cookies,6352,9648,60.3,ORD-002
+Adzmi Thalia,Instagram,2026-06-25,4,Cookies Red Velvet Choco Cheese,1,8000,8000,3452,26,June,Thursday,Cookies,3452,4548,56.85,ORD-002
+Aldena,Whatsapp,2026-06-25,28,Banana Bread Choco Cheese Almond 10 x 10,3,27000,81000,17039,26,June,Thursday,Banana Bread,51118,29882,36.89,ORD-004
+Umay,Whatsapp,2026-06-27,15,Scoopable Kunafa Pistachio,1,20000,20000,15670,26,June,Saturday,Scoopable,15670,4330,21.65,ORD-034
+Umay,Whatsapp,2026-06-27,20,Fudgy Brownies Brookies 10 x 10,1,25000,25000,13826,26,June,Saturday,Fudgy Brownies,13826,11174,44.69,ORD-034
+Umay,Whatsapp,2026-06-27,10,Scoopable Double Choco,1,15000,15000,3302,26,June,Saturday,Scoopable,3302,11698,77.99,ORD-034
+Umay,Whatsapp,2026-06-27,19,Fudgy Brownies Brochizu 20 x 10,1,54000,54000,31649,26,June,Saturday,Fudgy Brownies,31649,22351,41.39,ORD-034
+Umay,Whatsapp,2026-06-27,21,Fudgy Brownies Brookies 20 x 10,1,50000,50000,27653,26,June,Saturday,Fudgy Brownies,27653,22347,44.69,ORD-034
+Dara Ariska,Whatsapp,2026-07-11,7,Cookies Matcha Chocomond,6,8000,48000,3579,28,July,Saturday,Cookies,21476,26524,55.26,ORD-013
+Dara Ariska,Whatsapp,2026-07-11,6,Cookies Rainbow Cheddar Cheese,6,8000,48000,3521,28,July,Saturday,Cookies,21124,26876,55.99,ORD-013
+Dara Ariska,Whatsapp,2026-07-11,2,Cookies Red Velvet Choco,6,6000,36000,2505,28,July,Saturday,Cookies,15028,20972,58.26,ORD-013
+Dara Ariska,Whatsapp,2026-07-11,8,Cookies Double Choco,6,8000,48000,3302,28,July,Saturday,Cookies,19813,28187,58.72,ORD-013
+Dara Ariska,Whatsapp,2026-07-11,9,Cookies Lotus Biscoff,6,8000,48000,3604,28,July,Saturday,Cookies,21626,26374,54.95,ORD-013
+Dara Ariska,Whatsapp,2026-07-11,3,Cookies Rainbow Cheddar,6,6000,36000,2633,28,July,Saturday,Cookies,15801,20199,56.11,ORD-013
+Dara Ariska,Whatsapp,2026-07-11,5,Cookies Red Velvet Cheese,6,8000,48000,3176,28,July,Saturday,Cookies,19055,28945,60.3,ORD-013
+Dara Ariska,Whatsapp,2026-07-11,4,Cookies Red Velvet Choco Cheese,6,8000,48000,3452,28,July,Saturday,Cookies,20713,27287,56.85,ORD-013
+Dara Ariska,Whatsapp,2026-07-11,1,Cookies Klasik Coklat,6,6000,36000,2391,28,July,Saturday,Cookies,14345,21655,60.15,ORD-013
+Banyu Gendis,Whatsapp,2026-07-12,9,Cookies Lotus Biscoff,1,8000,8000,3604,28,July,Sunday,Cookies,3604,4396,54.95,ORD-008
+Banyu Gendis,Whatsapp,2026-07-12,5,Cookies Red Velvet Cheese,1,8000,8000,3176,28,July,Sunday,Cookies,3176,4824,60.3,ORD-008
+Banyu Gendis,Whatsapp,2026-07-12,8,Cookies Double Choco,1,8000,8000,3302,28,July,Sunday,Cookies,3302,4698,58.72,ORD-008
+Banyu Gendis,Whatsapp,2026-07-12,6,Cookies Rainbow Cheddar Cheese,1,8000,8000,3521,28,July,Sunday,Cookies,3521,4479,55.99,ORD-008
+Banyu Gendis,Whatsapp,2026-07-12,15,Scoopable Kunafa Pistachio,1,20000,20000,15670,28,July,Sunday,Scoopable,15670,4330,21.65,ORD-008
+Nabila,Whatsapp,2026-07-12,1,Cookies Klasik Coklat,7,6000,42000,2391,28,July,Sunday,Cookies,16736,25264,60.15,ORD-027
+Nabila,Whatsapp,2026-07-12,10,Scoopable Double Choco,7,15000,105000,3302,28,July,Sunday,Scoopable,23115,81885,77.99,ORD-027
+Nabila,Whatsapp,2026-07-12,4,Cookies Red Velvet Choco Cheese,7,8000,56000,3452,28,July,Sunday,Cookies,24165,31835,56.85,ORD-027

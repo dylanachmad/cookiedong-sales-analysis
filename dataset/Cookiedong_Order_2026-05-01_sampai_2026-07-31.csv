@@ -1,0 +1,184 @@
+Customer;Channel;Tanggal Order;Produk_ID;Menu;Qty;Harga;Subtotal;HPP
+Resfi;Whatsapp;13/05/2026;3;Cookies Rainbow Cheddar;3;6000.00;18000.00;Rp2.633,45
+Resfi;Whatsapp;13/05/2026;15;Scoopable Kunafa Pistachio;2;20000.00;40000.00;Rp15.670,00
+Resfi;Whatsapp;13/05/2026;6;Cookies Rainbow Cheddar Cheese;1;8000.00;8000.00;Rp3.520,66
+Resfi;Whatsapp;13/05/2026;13;Scoopable Smores;1;15000.00;15000.00;Rp10.280,00
+Nur Ainun;Whatsapp;14/05/2026;10;Scoopable Double Choco;3;15000.00;45000.00;Rp3.302,10
+Nur Ainun;Whatsapp;14/05/2026;15;Scoopable Kunafa Pistachio;1;20000.00;20000.00;Rp15.670,00
+Fara Diba;Whatsapp;15/05/2026;4;Cookies Red Velvet Choco Cheese;2;8000.00;16000.00;Rp3.452,16
+Fara Diba;Whatsapp;15/05/2026;16;Fudgy Brownies Klasik 10 x 10;1;23000.00;23000.00;Rp13.849,39
+Fara Diba;Whatsapp;15/05/2026;8;Cookies Double Choco;1;8000.00;8000.00;Rp3.302,10
+Fara Diba;Whatsapp;15/05/2026;6;Cookies Rainbow Cheddar Cheese;1;8000.00;8000.00;Rp3.520,66
+Fara Diba;Whatsapp;15/05/2026;20;Fudgy Brownies Brookies 10 x 10;1;25000.00;25000.00;Rp13.826,38
+Fara Diba;Whatsapp;15/05/2026;7;Cookies Matcha Chocomond;1;8000.00;8000.00;Rp3.579,30
+Tasya Putri Raniah;Whatsapp;18/05/2026;11;Scoopable Choco Cheesy;1;15000.00;15000.00;Rp9.678,00
+Tasya Putri Raniah;Whatsapp;18/05/2026;3;Cookies Rainbow Cheddar;1;6000.00;6000.00;Rp2.633,45
+Tasya Putri Raniah;Whatsapp;18/05/2026;16;Fudgy Brownies Klasik 10 x 10;1;23000.00;23000.00;Rp13.849,39
+Tasya Putri Raniah;Whatsapp;18/05/2026;1;Cookies Klasik Coklat;3;6000.00;18000.00;Rp2.390,84
+Tasya Putri Raniah;Whatsapp;18/05/2026;4;Cookies Red Velvet Choco Cheese;1;8000.00;8000.00;Rp3.452,16
+Feby;Whatsapp;20/05/2026;9;Cookies Lotus Biscoff;2;8000.00;16000.00;Rp3.604,32
+Feby;Whatsapp;20/05/2026;5;Cookies Red Velvet Cheese;3;8000.00;24000.00;Rp3.175,81
+Feby;Whatsapp;20/05/2026;1;Cookies Klasik Coklat;2;6000.00;12000.00;Rp2.390,84
+Feby;Whatsapp;20/05/2026;7;Cookies Matcha Chocomond;3;8000.00;24000.00;Rp3.579,30
+Atira;Whatsapp;20/05/2026;16;Fudgy Brownies Klasik 10 x 10;1;23000.00;23000.00;Rp13.849,39
+Atira;Whatsapp;20/05/2026;12;Scoopable Choco Crumbs;2;15000.00;30000.00;Rp10.205,00
+Wida Warnita;Whatsapp;26/05/2026;2;Cookies Red Velvet Choco;7;6000.00;42000.00;Rp2.504,69
+Wida Warnita;Whatsapp;26/05/2026;1;Cookies Klasik Coklat;5;6000.00;30000.00;Rp2.390,84
+Wida Warnita;Whatsapp;26/05/2026;3;Cookies Rainbow Cheddar;3;6000.00;18000.00;Rp2.633,45
+Wida Warnita;Whatsapp;26/05/2026;4;Cookies Red Velvet Choco Cheese;4;8000.00;32000.00;Rp3.452,16
+Wida Warnita;Whatsapp;26/05/2026;8;Cookies Double Choco;3;8000.00;24000.00;Rp3.302,10
+Wida Warnita;Whatsapp;26/05/2026;7;Cookies Matcha Chocomond;2;8000.00;16000.00;Rp3.579,30
+Dewi Lestari;Whatsapp;26/05/2026;7;Cookies Matcha Chocomond;2;8000.00;16000.00;Rp3.579,30
+Dewi Lestari;Whatsapp;26/05/2026;10;Scoopable Double Choco;1;15000.00;15000.00;Rp3.302,10
+Dewi Lestari;Whatsapp;26/05/2026;6;Cookies Rainbow Cheddar Cheese;1;8000.00;8000.00;Rp3.520,66
+Dewi Lestari;Whatsapp;26/05/2026;2;Cookies Red Velvet Choco;3;6000.00;18000.00;Rp2.504,69
+Dewi Lestari;Whatsapp;26/05/2026;8;Cookies Double Choco;2;8000.00;16000.00;Rp3.302,10
+Dewi Lestari;Whatsapp;26/05/2026;19;Fudgy Brownies Brochizu 20 x 10;1;54000.00;54000.00;Rp31.648,88
+Dewi Lestari;Whatsapp;26/05/2026;9;Cookies Lotus Biscoff;4;8000.00;32000.00;Rp3.604,32
+Dewi Lestari;Whatsapp;26/05/2026;11;Scoopable Choco Cheesy;1;15000.00;15000.00;Rp9.678,00
+Dewi Lestari;Whatsapp;26/05/2026;3;Cookies Rainbow Cheddar;1;6000.00;6000.00;Rp2.633,45
+Dewi Lestari;Whatsapp;26/05/2026;15;Scoopable Kunafa Pistachio;8;20000.00;160000.00;Rp15.670,00
+Dewi Lestari;Whatsapp;26/05/2026;5;Cookies Red Velvet Cheese;4;8000.00;32000.00;Rp3.175,81
+Dewi Lestari;Whatsapp;26/05/2026;4;Cookies Red Velvet Choco Cheese;5;8000.00;40000.00;Rp3.452,16
+Dewi Lestari;Whatsapp;26/05/2026;1;Cookies Klasik Coklat;2;6000.00;12000.00;Rp2.390,84
+Dewi Lestari;Whatsapp;26/05/2026;17;Fudgy Brownies Klasik 20 x 10;1;45000.00;45000.00;Rp27.698,78
+Dewi Lestari;Whatsapp;01/06/2026;5;Cookies Red Velvet Cheese;10;8000.00;80000.00;Rp3.175,81
+Dewi Lestari;Whatsapp;01/06/2026;12;Scoopable Choco Crumbs;1;15000.00;15000.00;Rp10.205,00
+Dewi Lestari;Whatsapp;01/06/2026;4;Cookies Red Velvet Choco Cheese;9;8000.00;72000.00;Rp3.452,16
+Dewi Lestari;Whatsapp;01/06/2026;26;Banana Bread OG Crumble 10 x 10;1;23000.00;23000.00;Rp13.183,87
+Dewi Lestari;Whatsapp;01/06/2026;15;Scoopable Kunafa Pistachio;8;20000.00;160000.00;Rp15.670,00
+Dewi Lestari;Whatsapp;01/06/2026;16;Fudgy Brownies Klasik 10 x 10;3;23000.00;69000.00;Rp13.849,39
+Dewi Lestari;Whatsapp;01/06/2026;1;Cookies Klasik Coklat;9;6000.00;54000.00;Rp2.390,84
+Dewi Lestari;Whatsapp;01/06/2026;24;Fudgy Brownies Lotus Biscoff Filling 10 x 10;2;27000.00;54000.00;Rp15.580,00
+Dewi Lestari;Whatsapp;01/06/2026;7;Cookies Matcha Chocomond;4;8000.00;32000.00;Rp3.579,30
+Dewi Lestari;Whatsapp;01/06/2026;11;Scoopable Choco Cheesy;1;15000.00;15000.00;Rp9.678,00
+Dewi Lestari;Whatsapp;01/06/2026;2;Cookies Red Velvet Choco;3;6000.00;18000.00;Rp2.504,69
+Dewi Lestari;Whatsapp;01/06/2026;28;Banana Bread Choco Cheese Almond 10 x 10;1;27000.00;27000.00;Rp17.039,28
+Dewi Lestari;Whatsapp;01/06/2026;10;Scoopable Double Choco;2;15000.00;30000.00;Rp3.302,10
+Dewi Lestari;Whatsapp;01/06/2026;18;Fudgy Brownies Brochizu 10 x 10;1;27000.00;27000.00;Rp15.824,44
+Dewi Lestari;Whatsapp;01/06/2026;8;Cookies Double Choco;6;8000.00;48000.00;Rp3.302,10
+Dewi Lestari;Whatsapp;01/06/2026;13;Scoopable Smores;1;15000.00;15000.00;Rp10.280,00
+Dewi Lestari;Whatsapp;01/06/2026;17;Fudgy Brownies Klasik 20 x 10;3;45000.00;135000.00;Rp27.698,78
+Dewi Lestari;Whatsapp;01/06/2026;9;Cookies Lotus Biscoff;12;8000.00;96000.00;Rp3.604,32
+Dewi Lestari;Whatsapp;01/06/2026;25;Fudgy Brownies Lotus Biscoff Filling 20 x 10;2;54000.00;108000.00;Rp31.160,00
+Ana Kusuma;Whatsapp;05/06/2026;1;Cookies Klasik Coklat;35;6000.00;210000.00;Rp2.390,84
+Achmad Alfa Rizki;Whatsapp;08/06/2026;24;Fudgy Brownies Lotus Biscoff Filling 10 x 10;1;27000.00;27000.00;Rp15.580,00
+Fara Diba;Whatsapp;09/06/2026;5;Cookies Red Velvet Cheese;1;8000.00;8000.00;Rp3.175,81
+Fara Diba;Whatsapp;09/06/2026;15;Scoopable Kunafa Pistachio;1;20000.00;20000.00;Rp15.670,00
+Fara Diba;Whatsapp;09/06/2026;7;Cookies Matcha Chocomond;1;8000.00;8000.00;Rp3.579,30
+Fara Diba;Whatsapp;09/06/2026;22;Fudgy Brownies Lotus Biscoff 10 x 10;2;25000.00;50000.00;Rp13.896,00
+Aini;Instagram;13/06/2026;16;Fudgy Brownies Klasik 10 x 10;3;23000.00;69000.00;Rp13.849,39
+Aini;Instagram;13/06/2026;1;Cookies Klasik Coklat;3;6000.00;18000.00;Rp2.390,84
+Aini;Instagram;13/06/2026;7;Cookies Matcha Chocomond;3;8000.00;24000.00;Rp3.579,30
+Aini;Instagram;13/06/2026;2;Cookies Red Velvet Choco;3;6000.00;18000.00;Rp2.504,69
+Aini;Instagram;13/06/2026;8;Cookies Double Choco;3;8000.00;24000.00;Rp3.302,10
+Aini;Instagram;13/06/2026;9;Cookies Lotus Biscoff;3;8000.00;24000.00;Rp3.604,32
+Aini;Instagram;13/06/2026;5;Cookies Red Velvet Cheese;3;8000.00;24000.00;Rp3.175,81
+Dewi Lestari;Whatsapp;16/06/2026;19;Fudgy Brownies Brochizu 20 x 10;1;54000.00;54000.00;Rp31.648,88
+Dewi Lestari;Whatsapp;16/06/2026;9;Cookies Lotus Biscoff;8;8000.00;64000.00;Rp3.604,32
+Dewi Lestari;Whatsapp;16/06/2026;24;Fudgy Brownies Lotus Biscoff Filling 10 x 10;1;27000.00;27000.00;Rp15.580,00
+Dewi Lestari;Whatsapp;16/06/2026;6;Cookies Rainbow Cheddar Cheese;1;8000.00;8000.00;Rp3.520,66
+Dewi Lestari;Whatsapp;16/06/2026;15;Scoopable Kunafa Pistachio;4;20000.00;80000.00;Rp15.670,00
+Dewi Lestari;Whatsapp;16/06/2026;2;Cookies Red Velvet Choco;3;6000.00;18000.00;Rp2.504,69
+Dewi Lestari;Whatsapp;16/06/2026;28;Banana Bread Choco Cheese Almond 10 x 10;1;27000.00;27000.00;Rp17.039,28
+Dewi Lestari;Whatsapp;16/06/2026;18;Fudgy Brownies Brochizu 10 x 10;4;27000.00;108000.00;Rp15.824,44
+Dewi Lestari;Whatsapp;16/06/2026;1;Cookies Klasik Coklat;8;6000.00;48000.00;Rp2.390,84
+Dewi Lestari;Whatsapp;16/06/2026;20;Fudgy Brownies Brookies 10 x 10;1;25000.00;25000.00;Rp13.826,38
+Dewi Lestari;Whatsapp;16/06/2026;3;Cookies Rainbow Cheddar;1;6000.00;6000.00;Rp2.633,45
+Dewi Lestari;Whatsapp;16/06/2026;10;Scoopable Double Choco;3;15000.00;45000.00;Rp3.302,10
+Dewi Lestari;Whatsapp;16/06/2026;5;Cookies Red Velvet Cheese;6;8000.00;48000.00;Rp3.175,81
+Dewi Lestari;Whatsapp;16/06/2026;27;Banana Bread Choco Almond 10 x 10;1;25000.00;25000.00;Rp14.788,55
+Dewi Lestari;Whatsapp;16/06/2026;13;Scoopable Smores;1;15000.00;15000.00;Rp10.280,00
+Dewi Lestari;Whatsapp;16/06/2026;4;Cookies Red Velvet Choco Cheese;7;8000.00;56000.00;Rp3.452,16
+Dewi Lestari;Whatsapp;16/06/2026;8;Cookies Double Choco;5;8000.00;40000.00;Rp3.302,10
+Rizka;Whatsapp;16/06/2026;4;Cookies Red Velvet Choco Cheese;1;8000;8000;Rp3.452,16
+Rizka;Whatsapp;16/06/2026;9;Cookies Lotus Biscoff;2;8000;16000;Rp3.604,32
+Rizka;Whatsapp;16/06/2026;8;Cookies Double Choco;1;8000;8000;Rp3.302,10
+Zahra;Whatsapp;16/06/2026;4;Cookies Red Velvet Choco Cheese;1;8000;8000;Rp3.452,16
+Zahra;Whatsapp;16/06/2026;1;Cookies Klasik Coklat;1;6000;6000;Rp2.390,84
+Zahra;Whatsapp;16/06/2026;15;Scoopable Kunafa Pistachio;1;20000;20000;Rp15.670,00
+Mba Anggi;Whatsapp;16/06/2026;1;Cookies Klasik Coklat;1;6000;6000;Rp2.390,84
+Mba Anggi;Whatsapp;16/06/2026;3;Cookies Rainbow Cheddar;1;6000;6000;Rp2.633,45
+Mba Anggi;Whatsapp;16/06/2026;3;Cookies Rainbow Cheddar;1;6000;6000;Rp2.633,45
+Kak Eva;Whatsapp;16/06/2026;15;Scoopable Kunafa Pistachio;1;20000;20000;Rp15.670,00
+Kak Eva;Whatsapp;16/06/2026;10;Scoopable Double Choco;2;15000;30000;Rp3.302,10
+Mas Hari;Whatsapp;16/06/2026;19;Fudgy Brownies Brochizu 20 x 10;1;54000;54000;Rp31.648,88
+Kak Ani;Whatsapp;16/06/2026;15;Scoopable Kunafa Pistachio;1;20000;20000;Rp15.670,00
+Kak Ani;Whatsapp;16/06/2026;9;Cookies Lotus Biscoff;2;8000;16000;Rp3.604,32
+Kak Ani;Whatsapp;16/06/2026;2;Cookies Red Velvet Choco;3;6000;18000;Rp2.504,69
+Kak Ani;Whatsapp;16/06/2026;24;Fudgy Brownies Lotus Biscoff Filling 10 x 10;1;27000;27000;Rp15.580,00
+Kak Ani;Whatsapp;16/06/2026;4;Cookies Red Velvet Choco Cheese;2;8000;16000;Rp3.452,16
+Kak Ani;Whatsapp;16/06/2026;9;Cookies Lotus Biscoff;2;8000;16000;Rp3.604,32
+Kak Ani;Whatsapp;16/06/2026;8;Cookies Double Choco;2;8000;16000;Rp3.302,10
+Kak Ani;Whatsapp;16/06/2026;1;Cookies Klasik Coklat;1;6000;6000;Rp2.390,84
+Alpia;Whatsapp;16/06/2026;5;Cookies Red Velvet Cheese;1;8000;8000;Rp3.175,81
+Alpia;Whatsapp;16/06/2026;8;Cookies Double Choco;1;8000;8000;Rp3.302,10
+Mba Renny;Whatsapp;16/06/2026;27;Banana Bread Choco Almond 10 x 10;1;25000;25000;Rp14.788,55
+Dewi;Whatsapp;16/06/2026;9;Cookies Lotus Biscoff;1;8000;8000;Rp3.604,32
+Dewi;Whatsapp;16/06/2026;15;Scoopable Kunafa Pistachio;1;20000;20000;Rp15.670,00
+Syifa;Instagram;17/06/2026;7;Cookies Matcha Chocomond;7;8000.00;56000.00;Rp3.579,30
+Syifa;Instagram;17/06/2026;13;Scoopable Smores;7;15000.00;105000.00;Rp10.280,00
+Syifa;Instagram;17/06/2026;6;Cookies Rainbow Cheddar Cheese;2;8000.00;16000.00;Rp3.520,66
+Syifa;Instagram;17/06/2026;4;Cookies Red Velvet Choco Cheese;18;8000.00;144000.00;Rp3.452,16
+Syifa;Instagram;17/06/2026;8;Cookies Double Choco;17;8000.00;136000.00;Rp3.302,10
+Syifa;Instagram;17/06/2026;12;Scoopable Choco Crumbs;2;15000.00;30000.00;Rp10.205,00
+Syifa;Instagram;17/06/2026;9;Cookies Lotus Biscoff;14;8000.00;112000.00;Rp3.604,32
+Syifa;Instagram;17/06/2026;15;Scoopable Kunafa Pistachio;30;20000.00;600000.00;Rp15.670,00
+Syifa;Instagram;17/06/2026;3;Cookies Rainbow Cheddar;4;6000.00;24000.00;Rp2.633,45
+Syifa;Instagram;17/06/2026;5;Cookies Red Velvet Cheese;12;8000.00;96000.00;Rp3.175,81
+Syifa;Instagram;17/06/2026;11;Scoopable Choco Cheesy;3;15000.00;45000.00;Rp9.678,00
+Syifa;Instagram;17/06/2026;1;Cookies Klasik Coklat;10;6000.00;60000.00;Rp2.390,84
+Syifa;Instagram;17/06/2026;10;Scoopable Double Choco;2;15000.00;30000.00;Rp3.302,10
+Syifa;Instagram;19/06/2026;15;Scoopable Kunafa Pistachio;1;20000.00;20000.00;Rp15.670,00
+Bella Khanza;Whatsapp;19/06/2026;15;Scoopable Kunafa Pistachio;24;20000.00;480000.00;Rp15.670,00
+Bella Khanza;Whatsapp;19/06/2026;11;Scoopable Choco Cheesy;5;15000.00;75000.00;Rp9.678,00
+Bella Khanza;Whatsapp;19/06/2026;10;Scoopable Double Choco;9;15000.00;135000.00;Rp3.302,10
+Bella Khanza;Whatsapp;19/06/2026;13;Scoopable Smores;4;15000.00;60000.00;Rp10.280,00
+Bella Khanza;Whatsapp;19/06/2026;12;Scoopable Choco Crumbs;2;15000.00;30000.00;Rp10.205,00
+Bella Khanza;Whatsapp;20/06/2026;14;Scoopable Martabak;1;15000.00;15000.00;Rp9.807,00
+Bella Khanza;Whatsapp;20/06/2026;11;Scoopable Choco Cheesy;1;15000.00;15000.00;Rp9.678,00
+Bella Khanza;Whatsapp;20/06/2026;13;Scoopable Smores;2;15000.00;30000.00;Rp10.280,00
+Bella Khanza;Whatsapp;22/06/2026;12;Scoopable Choco Crumbs;2;15000.00;30000.00;Rp10.205,00
+Bella Khanza;Whatsapp;22/06/2026;15;Scoopable Kunafa Pistachio;2;20000.00;40000.00;Rp15.670,00
+Bella Khanza;Whatsapp;22/06/2026;11;Scoopable Choco Cheesy;3;15000.00;45000.00;Rp9.678,00
+Bella Khanza;Whatsapp;22/06/2026;10;Scoopable Double Choco;3;15000.00;45000.00;Rp3.302,10
+Bella Khanza;Whatsapp;22/06/2026;13;Scoopable Smores;5;15000.00;75000.00;Rp10.280,00
+Dafina;Whatsapp;23/06/2026;8;Cookies Double Choco;5;8000.00;40000.00;Rp3.302,10
+Dafina;Whatsapp;23/06/2026;7;Cookies Matcha Chocomond;5;8000.00;40000.00;Rp3.579,30
+Dafina;Whatsapp;23/06/2026;9;Cookies Lotus Biscoff;5;8000.00;40000.00;Rp3.604,32
+Dafina;Whatsapp;23/06/2026;4;Cookies Red Velvet Choco Cheese;5;8000.00;40000.00;Rp3.452,16
+Fara Diba;Whatsapp;25/06/2026;1;Cookies Klasik Coklat;1;6000.00;6000.00;Rp2.390,84
+Fara Diba;Whatsapp;25/06/2026;5;Cookies Red Velvet Cheese;2;8000.00;16000.00;Rp3.175,81
+Fara Diba;Whatsapp;25/06/2026;16;Fudgy Brownies Klasik 10 x 10;2;23000.00;46000.00;Rp13.849,39
+Fara Diba;Whatsapp;25/06/2026;8;Cookies Double Choco;1;8000.00;8000.00;Rp3.302,10
+Fara Diba;Whatsapp;25/06/2026;7;Cookies Matcha Chocomond;1;8000.00;8000.00;Rp3.579,30
+Fara Diba;Whatsapp;25/06/2026;18;Fudgy Brownies Brochizu 10 x 10;1;27000.00;27000.00;Rp15.824,44
+Adzmi Thalia;Instagram;25/06/2026;8;Cookies Double Choco;2;8000.00;16000.00;Rp3.302,10
+Adzmi Thalia;Instagram;25/06/2026;6;Cookies Rainbow Cheddar Cheese;2;8000.00;16000.00;Rp3.520,66
+Adzmi Thalia;Instagram;25/06/2026;2;Cookies Red Velvet Choco;1;6000.00;6000.00;Rp2.504,69
+Adzmi Thalia;Instagram;25/06/2026;7;Cookies Matcha Chocomond;1;8000.00;8000.00;Rp3.579,30
+Adzmi Thalia;Instagram;25/06/2026;5;Cookies Red Velvet Cheese;2;8000.00;16000.00;Rp3.175,81
+Adzmi Thalia;Instagram;25/06/2026;4;Cookies Red Velvet Choco Cheese;1;8000.00;8000.00;Rp3.452,16
+Aldena;Whatsapp;25/06/2026;28;Banana Bread Choco Cheese Almond 10 x 10;3;27000.00;81000.00;Rp17.039,28
+Umay;Whatsapp;27/06/2026;15;Scoopable Kunafa Pistachio;1;20000.00;20000.00;Rp15.670,00
+Umay;Whatsapp;27/06/2026;20;Fudgy Brownies Brookies 10 x 10;1;25000.00;25000.00;Rp13.826,38
+Umay;Whatsapp;27/06/2026;10;Scoopable Double Choco;1;15000.00;15000.00;Rp3.302,10
+Umay;Whatsapp;27/06/2026;19;Fudgy Brownies Brochizu 20 x 10;1;54000.00;54000.00;Rp31.648,88
+Umay;Whatsapp;27/06/2026;21;Fudgy Brownies Brookies 20 x 10;1;50000.00;50000.00;Rp27.652,77
+Dara Ariska;Whatsapp;11/07/2026;7;Cookies Matcha Chocomond;6;8000.00;48000.00;Rp3.579,30
+Dara Ariska;Whatsapp;11/07/2026;6;Cookies Rainbow Cheddar Cheese;6;8000.00;48000.00;Rp3.520,66
+Dara Ariska;Whatsapp;11/07/2026;2;Cookies Red Velvet Choco;6;6000.00;36000.00;Rp2.504,69
+Dara Ariska;Whatsapp;11/07/2026;8;Cookies Double Choco;6;8000.00;48000.00;Rp3.302,10
+Dara Ariska;Whatsapp;11/07/2026;9;Cookies Lotus Biscoff;6;8000.00;48000.00;Rp3.604,32
+Dara Ariska;Whatsapp;11/07/2026;3;Cookies Rainbow Cheddar;6;6000.00;36000.00;Rp2.633,45
+Dara Ariska;Whatsapp;11/07/2026;5;Cookies Red Velvet Cheese;6;8000.00;48000.00;Rp3.175,81
+Dara Ariska;Whatsapp;11/07/2026;4;Cookies Red Velvet Choco Cheese;6;8000.00;48000.00;Rp3.452,16
+Dara Ariska;Whatsapp;11/07/2026;1;Cookies Klasik Coklat;6;6000.00;36000.00;Rp2.390,84
+Banyu Gendis;Whatsapp;12/07/2026;9;Cookies Lotus Biscoff;1;8000.00;8000.00;Rp3.604,32
+Banyu Gendis;Whatsapp;12/07/2026;5;Cookies Red Velvet Cheese;1;8000.00;8000.00;Rp3.175,81
+Banyu Gendis;Whatsapp;12/07/2026;8;Cookies Double Choco;1;8000.00;8000.00;Rp3.302,10
+Banyu Gendis;Whatsapp;12/07/2026;6;Cookies Rainbow Cheddar Cheese;1;8000.00;8000.00;Rp3.520,66
+Banyu Gendis;Whatsapp;12/07/2026;15;Scoopable Kunafa Pistachio;1;20000.00;20000.00;Rp15.670,00
+Nabila;Whatsapp;12/07/2026;1;Cookies Klasik Coklat;7;6000.00;42000.00;Rp2.390,84
+Nabila;Whatsapp;12/07/2026;10;Scoopable Double Choco;7;15000.00;105000.00;Rp3.302,10
+Nabila;Whatsapp;12/07/2026;4;Cookies Red Velvet Choco Cheese;7;8000.00;56000.00;Rp3.452,16
